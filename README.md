@@ -1,10 +1,10 @@
-<a href="https://github.com/sainath-AI?tab=followers"><img src="https://img.shields.io/github/followers/sainath-AI?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://github.com/sainath-AI/github-profile-views-counter">
+<a href="https://github.com/NimitA123?tab=followers"><img src="https://img.shields.io/github/followers/NimitA123?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/NimitA123/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NimitA123">
 </a>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nimit Agarwal</h1>
-<h3 align="left">I'm a passionate Full Stack Android Developer from Bengalore,India.</h3>
+<h3 align="left">I'm a passionate Full Stack Android Developer from Indore,India.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -17,9 +17,7 @@
 
 - 👯 I’m looking to collaborate on *OpenSource Projects and cloning pixel perfect applications*
 
-- 👨‍💻 I write tech blogs here **[Hashnode](https://hashnode.com/@sainath01)**
-
-- 📫 How to reach me *dukedustine123@gmail.com*
+- 📫 How to reach me *nimit.agrawal0105@gmail.com*
 
 - ⚡ Fun fact *I play games and go to the GYM very often.*
 
