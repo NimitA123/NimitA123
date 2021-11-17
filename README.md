@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=sainath-AI">
 </a>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sainath</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nimit Agarwal</h1>
 <h3 align="left">I'm a passionate Full Stack Android Developer from Bengalore,India.</h3>
 
 
