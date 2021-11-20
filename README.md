@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on **[GooleMeet](https://github.com/MINTU325/GoogleMeet_Clone)**
 
-- 🔭 Check my Portfolio **[Portfolio](https://sainath-ai.github.io/Sainath-s_Portfolio/)**
-
 - 🌱 I’m currently learning *Data Structures and Algorithms.*
 
 - 👯 I’m looking to collaborate on *OpenSource Projects and cloning pixel perfect applications*
@@ -40,8 +38,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/sainath-AI/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sainath reddy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sainath-AI&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/NimitA123/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nimit Agarwal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NimitA123&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -57,7 +55,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/sainath-AI/github-readme-activity-graph"><img alt="Sainath reddy's  Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sainath-AI&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/NimitA123/github-readme-activity-graph"><img alt="Sainath reddy's  Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NimitA123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -66,8 +64,8 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/nimit-agrawal-341712201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Sainath18060196"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/sainath__red.e/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://stackoverflow.com/users/14885830/sainath-reddy"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
+<a href = "https://twitter.com/@NimitAgrawal8"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+<a href = "https://stackoverflow.com/users/17068771/nimit-agrawal?tab=profile"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
 
 </p>
