@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **[GooleMeet](https://github.com/MINTU325/GoogleMeet_Clone)**
 
 - 🌱 I’m currently learning *Data Structures and Algorithms.*
-- // Check my Resume **[Resume]( https://flowcv.io/app/resume/content)**
+- 🔭// Check my Linkedln **[Linkedln](https://www.linkedin.com/in/nimit-agrawal-341712201/)**
 - 🔭// Check my Portfolio **[Portfolio](https://nimitagrawal.dorik.io/)**
 
 - 👯 I’m looking to collaborate on *OpenSource Projects and cloning pixel perfect applications*
