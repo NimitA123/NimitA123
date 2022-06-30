@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[GooleMeet](https://github.com/MINTU325/GoogleMeet_Clone)**
+- 🔭 I’m currently working on **[Big oh Tech ](https://www.bigohtech.com/)**
 
 - 🌱 I’m currently learning *Data Structures and Algorithms.*
 - 🔭// Check my Linkedln **[Linkedln](https://www.linkedin.com/in/nimit-agrawal-341712201/)**
